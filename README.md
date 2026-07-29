@@ -1,0 +1,27 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+This repo contains code to generate results and figures for the paper:
+“Pandemic risk in the Shared Socioeconomic Pathways” by Lavelle et al. 
+
+To run this code base, you must have [R](https://www.r-project.org/)
+installed on your computer. To reproduce the results, first clone or
+download this github repository to your computer. This repo uses
+[renv](https://rstudio.github.io/renv/articles/renv.html) for dependency
+management. Run `renv::restore` to install all packages from their
+recorded versions. This repo uses
+[targets](https://books.ropensci.org/targets/) to orchestrate the
+analysis pipeline contained in `_targets.R`. To recreate Fig. 1-3 used
+in the paper, run `targets::tar_make()`. FIg. 4 was produced outside the
+targets pipeline, in Microsoft Powerpoint.
+
+Repo structure overview:
+
+    ├── R = folder that contains functions used in the targets pipeline
+    ├── _targets = folder containing targets pipeline artifacts
+    ├── _targets.R = main targets pipeline file
+    ├── Data = local storage location for data
+    ├── Figures = storage location for figures
+    ├── packages.R = R script that lists all R packages used in the analysis
+    ├── renv = storage location for renv artifacts
+    └── renv.lock = file that describes package versions and other software dependencies for this project

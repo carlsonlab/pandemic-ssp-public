@@ -1,0 +1,65 @@
+﻿Drivers of pandemic risk (examples),Drivers of pandemic risk (short),Category,Stage,Narrative representation,Quantitative projections
+Educational attainment,Educational attainment,Risk multipliers,Pandemic spread and impacts,Explicit in SSP narratives,Projections available (core SSP quantifications)
+Population age structure,Population age structure,Population characteristics,Pandemic spread and impacts,Explicit in SSP narratives,Projections available (core SSP quantifications)
+Income inequality,Income inequality,Risk multipliers,Pandemic spread and impacts,Explicit in SSP narratives,Projections available (core SSP quantifications)
+Population size,Population size,Population characteristics,Pandemic spread and impacts,Explicit in SSP narratives,Projections available (core SSP quantifications)
+Population density,Population density,Population characteristics,Pandemic spread and impacts,Explicit in SSP narratives,Projections available (core SSP quantifications)
+Land cover (built-up),Land cover (built-up),Passive human-wildlife contact,Pathogen spillover,Explicit in SSP narratives,Projections available (core SSP quantifications)
+Land cover (forest),Land cover (forest),Passive human-wildlife contact,Pathogen spillover,Explicit in SSP narratives,Projections available (standard IAM variables)
+Dietary reliance on livestock animal protein,Dietary reliance on livestock protein,Livestock production systems ,Pathogen spillover,Explicit in SSP narratives,Projections available (standard IAM variables)
+Land cover (animal agriculture),Land cover (animal agriculture),Livestock production systems ,Pathogen spillover,Explicit in SSP narratives,Projections available (standard IAM variables)
+Production scale and industrialization,Production scale & industrialization,Livestock production systems ,Pathogen spillover,Explicit in SSP narratives,Projections available (standard IAM variables)
+International livestock trade,International livestock trade,Livestock production systems ,Pathogen spillover,Explicit in SSP narratives,Projections available (standard IAM variables)
+Deforestation,Deforestation,Passive human-wildlife contact,Pathogen spillover,Explicit in SSP narratives,Projections available (standard IAM variables)
+Gender inequality,Gender inequality,Risk multipliers,Pandemic spread and impacts,Explicit in SSP narratives,Projections available (extensions or downstream modeling studies)
+Health systems investment,Health systems investment,Health systems,Pandemic preparedness and response,Explicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+Healthcare access (physical infrastructure),Healthcare access (physical infrastructure),Health systems,Pandemic preparedness and response,Explicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+"Water, sanitation and hygiene","Water, sanitation & hygiene",Risk multipliers,Pandemic spread and impacts,Explicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+Multilateral cooperation (institutions and instruments),Multilateral cooperation,Governance,Cross-stage drivers,Explicit in SSP narratives,Difficult to quantify
+Worker population in livestock industries,Worker population in livestock industries,Livestock production systems ,Pathogen spillover,Implicit in SSP narratives,Projections available (extensions or downstream modeling studies)
+Livestock populations,Livestock populations,Livestock production systems ,Pathogen spillover,Implicit in SSP narratives,Projections available (extensions or downstream modeling studies)
+International mobility (non-migration),International mobility,Human behavior (contact and mobility),Pandemic spread and impacts,Implicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+Landscape fragmentation,Landscape fragmentation,Passive human-wildlife contact,Pathogen spillover,Implicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+International wildlife trade,International wildlife trade,Active human-wildlife contact,Pathogen spillover,Implicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+Domestic wildlife trade,Domestic wildlife trade,Active human-wildlife contact,Pathogen spillover,Implicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+Dietary reliance on wild animal protein,Dietary reliance on wild animal protein,Active human-wildlife contact,Pathogen spillover,Implicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+Investment in One Health disease surveillance,Investment in OH disease surveillance,Biosafety and biosecurity,Pathogen spillover,Implicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+Healthcare cost (affordability),Healthcare cost (affordability),Health systems,Pandemic preparedness and response,Implicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+Racial inequality,Racial inequality,Risk multipliers,Pandemic spread and impacts,Implicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+LGBTQ+ inequality,LGBTQ+ inequality,Risk multipliers,Pandemic spread and impacts,Implicit in SSP narratives,Projections possible (extensions or downstream modeling studies)
+Agricultural biosafety and biosecurity,Agricultural biosafety & biosecurity,Biosafety and biosecurity,Pathogen spillover,Implicit in SSP narratives,Difficult to quantify
+Government propensity to restrict travel during outbreaks,Gov't travel restriction during outbreaks,Human behavior (contact and mobility),Pandemic spread and impacts,Implicit in SSP narratives,Difficult to quantify
+International and multilateral support for outbreak response,Int'l & multilat. support for outbreak response,Outbreak detection and containment,Pandemic preparedness and response,Implicit in SSP narratives,Difficult to quantify
+Civil conflict,Civil conflict,Governance,Cross-stage drivers,Explored in SSP extensions,Projections available (extensions or downstream modeling studies)
+Non-communicable disease burdens,Non-communicable disease burdens,Risk multipliers,Pandemic spread and impacts,Explored in SSP extensions,Projections available (extensions or downstream modeling studies)
+Exposure to PM2.5 air pollution,Exposure to PM2.5 air pollution,Risk multipliers,Pandemic spread and impacts,Explored in SSP extensions,Projections available (extensions or downstream modeling studies)
+Corruption,Corruption,Governance,Cross-stage drivers,Explored in SSP extensions,Projections available (extensions or downstream modeling studies)
+Digital transformation,Digital transformation,Technology,Cross-stage drivers,Explored in SSP extensions,Projections available (extensions or downstream modeling studies)
+Worker population in healthcare,Worker population in healthcare,Health systems,Pandemic preparedness and response,Explored in SSP extensions,Projections possible (extensions or downstream modeling studies)
+Health system capacity ,Health system capacity ,Health systems,Pandemic preparedness and response,Explored in SSP extensions,Projections possible (extensions or downstream modeling studies)
+Passive surveillance system strength,Passive surveillance system strength,Outbreak detection and containment,Pandemic preparedness and response,Explored in SSP extensions,Difficult to quantify
+"Healthcare quality (e.g., IPC)","Healthcare quality (e.g., IPC)",Health systems,Pandemic preparedness and response,Explored in SSP extensions,Difficult to quantify
+"Investment in stockpiles (PPE, MCMs)","Investment in stockpiles (PPE, MCMs)",Outbreak detection and containment,Pandemic preparedness and response,Implicit in SSP extensions,Projections possible (extensions or downstream modeling studies)
+Routine immunization,Routine immunization,Risk multipliers,Pandemic spread and impacts,Implicit in SSP extensions,Projections possible (extensions or downstream modeling studies)
+MCM production infrastructure,MCM production infrastructure,Pandemic response,Pandemic preparedness and response,Implicit in SSP extensions,Difficult to quantify
+Global warming levels and physical impacts of climate change,Global warming & physical impacts of CC,Climate change,Cross-stage drivers,Requires new extensions or modeling,Projections available (standard IAM variables)
+Wildlife occupancy of built-up land,Wildlife occupancy of built-up land,Passive human-wildlife contact,Pathogen spillover,Requires new extensions or modeling,Projections available (extensions or downstream modeling studies)
+Wildlife host community composition and diversity,Wildlife comm. composition & diversity,Wildlife disease dynamics,Pathogen spillover,Requires new extensions or modeling,Projections available (extensions or downstream modeling studies)
+Wildlife mobility and migration patterns,Wildlife mobility & migration patterns,Wildlife disease dynamics,Pathogen spillover,Requires new extensions or modeling,Projections possible (extensions or downstream modeling studies)
+Wildlife population dynamics,Wildlife population dynamics,Wildlife disease dynamics,Pathogen spillover,Requires new extensions or modeling,Projections possible (extensions or downstream modeling studies)
+Farmed wildlife production,Farmed wildlife production,Active human-wildlife contact,Pathogen spillover,Requires new extensions or modeling,Projections possible (extensions or downstream modeling studies)
+Worker population in wildlife industries,Worker population in wildlife industries,Active human-wildlife contact,Pathogen spillover,Requires new extensions or modeling,Projections possible (extensions or downstream modeling studies)
+"Fine-scale mobility (local and domestic, non-migration)",Fine-scale mobility,Human behavior (contact and mobility),Pandemic spread and impacts,Requires new extensions or modeling,Projections possible (extensions or downstream modeling studies)
+General social network characteristics,General social network characteristics,Human behavior (contact and mobility),Pandemic spread and impacts,Requires new extensions or modeling,Projections possible (extensions or downstream modeling studies)
+"Close contact (e.g., sexual) network characteristics",Close contact network characteristics,Human behavior (contact and mobility),Pandemic spread and impacts,Requires new extensions or modeling,Projections possible (extensions or downstream modeling studies)
+Illicit drug trade,Illicit drug trade,Risk multipliers,Pandemic spread and impacts,Requires new extensions or modeling,Projections possible (extensions or downstream modeling studies)
+"MCM technology and R&D  (i.e., 100 Days Mission)",MCM technology and R&D,Pandemic response,Pandemic preparedness and response,Not aligned with SSP narratives,Quantifiable but misaligned with SSP framework
+Social safety nets during public health emergencies,Social safety nets during PHEs,Pandemic response,Pandemic preparedness and response,Not aligned with SSP narratives,Quantifiable but misaligned with SSP framework
+Antimicrobial efficacy,Antimicrobial efficacy,Risk multipliers,Pandemic spread and impacts,Not aligned with SSP narratives,Quantifiable but misaligned with SSP framework
+Public resistance to restrictive measures,Public resistance to restrictive measures,Pandemic response,Pandemic preparedness and response,Not aligned with SSP narratives,Quantifiable but misaligned with SSP framework
+Community awareness of wildlife-related risks,Comm. awareness of wildlife-related risks,Biosafety and biosecurity,Pathogen spillover,Not aligned with SSP narratives,Difficult to quantify
+Laboratory biosafety and biosecurity ,Laboratory biosafety & biosecurity ,Biosafety and biosecurity,Pathogen spillover,Not aligned with SSP narratives,Difficult to quantify
+Preparedness planning and mobilization,Preparedness planning & mobilization,Outbreak detection and containment,Pandemic preparedness and response,Not aligned with SSP narratives,Difficult to quantify
+Public trust in public health (governments and institutions),Public trust in public health,Governance,Cross-stage drivers,Not aligned with SSP narratives,Difficult to quantify
+Legal powers of public health (reducing impacts),Legal powers of PH (reducing impacts),Pandemic response,Pandemic preparedness and response,Not aligned with SSP narratives,Difficult to quantify
+Legal powers of public health (outbreak containment),Legal powers of PH (outbreak containment),Outbreak detection and containment,Pandemic preparedness and response,Not aligned with SSP narratives,Difficult to quantify
