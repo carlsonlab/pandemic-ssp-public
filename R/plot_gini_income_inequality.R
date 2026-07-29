@@ -26,7 +26,7 @@ plot_gini_income_inequality <- function(plot_data, ssp_cols) {
   
   gini_plot <- fix_panel_layers(gini_plot) +
     labs(
-      title = "D) Income Inequality",
+      title = "C) Income Inequality",
       y = "Gini coefficient"
     )
   

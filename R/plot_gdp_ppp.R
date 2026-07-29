@@ -26,7 +26,7 @@ plot_gdp_ppp <- function(plot_data, ssp_cols) {
   
   gdp_plot <- fix_panel_layers(gdp_plot) +
     labs(
-      title = "C) GDP (PPP)",
+      title = "B) GDP (PPP)",
       y = "trillion international USD/yr"
     )
   

@@ -36,7 +36,7 @@ plot_population65 <- function(plot_data, ssp_cols) {
   
   population65_plot <- fix_panel_layers(population65_plot) +
     labs(
-      title = "B) Population 65+",
+      title = "D) Population 65+",
       y = "billion people"
     )
   
