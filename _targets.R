@@ -120,10 +120,18 @@ outputs_targets <- tar_plan(
   p_forest = plot_forest_area(forest_plot_data, ssp_cols),
   p_livestock = plot_livestock_production(livestock_plot_data, ssp_cols),
   
-  figure3_combined = plot_trajectories(p_population, p_gdp, p_gini,
-                                       p_population65, p_cardiovascular, p_gender,
-                                       p_builtup, p_forest, p_livestock, 
-                                       ssp_cols)
+  figure3_combined = plot_trajectories(
+    p_population,        # A
+    p_gdp,               # B
+    p_gini,              # C
+    p_population65,      # D
+    p_cardiovascular,    # E
+    p_gender,            # F
+    p_builtup,           # G
+    p_forest,            # H
+    p_livestock,         # I
+    ssp_cols
+  )
 )
 
 # Plotting
